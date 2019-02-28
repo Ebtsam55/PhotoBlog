@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Photo Blog</string>
+
+
+    <string name="internetConnectionError">check your Internet Connection </string>
+    <string name="signUpMsg">Signing up </string>
+    <string name="signInMsg">Checking Logs</string>
+
+    <!-- TODO: Register Activity -->
+
+    <string name="signUpFailed">This Email already exists</string>
+    <string name="signUpDataProblem">One or more fields are incorrect</string>
+    <string name="invalidForm">Invalid Mail Form</string>
+    <string name="invalidUsername">Invalid Username</string>
+    <string name="passCharLess">Password must be 8 characters at least</string>
+
+
+
+    <!-- TODO: Login Activity -->
+    <string name="forg_pass">Forgot your password?</string>
+    <string name="register">Not A Member? <u>JOIN NOW</u></string>
+    <string name="login">Log in</string>
+    <string name="password">Password</string>
+    <string name="email">Email Address</string>
+    <string name="pass_char_less">Password must be 8 characters at least</string>
+    <string name="invalid_mail">Invalid E-Mail format</string>
+    <string name="login_data_problem">Invalid Email/Password</string>
+    <string name="log_in_failed">Failed to log in</string>
+    <string name="autofill_email">Set your E-mail Address</string>
+    <string name="autofill_password">Set your Pssword</string>
+    <string name="or_string">OR</string>
+    <string name="loginDataProblem">Invalid Email/Password</string>
+    <string name="logInFailed"> you need to setup your account </string>
+
+
+
+
+
+</resources>
